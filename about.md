@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like 🍌 hence the profile picture.
+Student at NYU 🏙
+Currently working with ♦️  on Rails but I like working with ☕️ and 🐍 as well.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
