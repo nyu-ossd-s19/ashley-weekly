@@ -21,5 +21,6 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | https://github.com/nyu-ossd-s19/DaKoala-weekly/issues/1    | course website    |   I reported a incorrect link.    |
-|  2   | https://github.com/nyu-ossd-s19/tojimjiang-weekly/issues/1    | course website    |   I reported a incorrect link.    |
-|     |     |     |      |
+|  2   | https://github.com/nyu-ossd-s19/tojimjiang-weekly/issues/1    | course website    |   I reported a incorrect link. |
+| 3 | https://github.com/nyu-ossd-s19/mood/commits?author=ashley| Firefox extension | Core contributor |
+
