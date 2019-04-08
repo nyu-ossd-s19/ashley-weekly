@@ -25,4 +25,5 @@ Replace the first row with your contribution.
 | 3 | https://github.com/nyu-ossd-s19/mood/commits?author=ashley | Firefox extension | Core contributor |
 | 9 | https://github.com/gatsbyjs/gatsby/pull/13096 | Gatsby | Fixed git init on exiting git repos |
 | 10 | https://en.wikipedia.org/wiki/Lil_Nas_X | Wikipedia | Added some information to Lil Nas X page |
+| 10 | https://en.wikipedia.org/w/index.php?title=Datadog&diff=891573629&oldid=889135802 | Wikipedia | Added some information to Datadog page |
 
