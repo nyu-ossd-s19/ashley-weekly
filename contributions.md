@@ -27,4 +27,5 @@ Replace the first row with your contribution.
 | 10 | https://en.wikipedia.org/wiki/Lil_Nas_X | Wikipedia | Added some information to Lil Nas X page |
 | 10 | https://en.wikipedia.org/w/index.php?title=Datadog&diff=891573629&oldid=889135802 | Wikipedia | Added some information to Datadog page |
 | 11 | https://github.com/nyu-ossd-s19/mayaarguelles-weekly/pull/2 | Student's Page | Reformat table |
+| 11 | https://github.com/nyu-ossd-s19/Seasonal-Theme2k19/pull/2 | Mozilla Extension | PR for refactor code |
 
